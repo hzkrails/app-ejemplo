@@ -1,7 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta es la aplicación de ejemplo para
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](https://www.railstutorial.org/)
+(6th Edition)
+by [Michael Hartl](https://www.michaelhartl.com/).
 
 Things you may want to cover:
 
